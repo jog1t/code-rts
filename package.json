@@ -1,0 +1,10 @@
+{
+  "workspaces": [
+    "packages/*"
+  ],
+  "private": true,
+  "scripts": {
+    "prepare": "node packages/tools/generateTemplate.js",
+    "start": "yarn workspace @code-rts/app start"
+  }
+}
