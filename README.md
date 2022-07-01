@@ -9,7 +9,7 @@
 
 ---
 
-## Motivation
+# Motivation
 
 Inspired by the great minds from [Screeps](https://screeps.com/), motivated by the amazing art from [Kenney](https://kenney.nl/), excited by the [CodeSandbox's Sandpack](https://github.com/codesandbox/sandpack), hugely inspired by Jacob from [aarthificial](https://www.youtube.com/c/aarthificial)
 YouTube channel with their [Motion Canvas](https://www.youtube.com/watch?v=WTUafAwrunE) concept.
@@ -18,6 +18,10 @@ From all the things mentioned above the idea for "Code RTS" (still a WIP name)  
 This project is strictly an experiment, so all feedback is highly appreciated! You can use [Discussions tab](https://github.com/jog1t/code-rts/discussions) to talk about features or ideas.
 
 ⚠️ Everything in this repo is a subject to change. Proper documentation and more information will be provided very soon.
+
+# Attribution
+
+- [Sci-Fi assets](https://kenney.nl/assets/sci-fi-rts) from [Kenney](https://kenney.nl/), thank you!
 
 # Contributing
 
